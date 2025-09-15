@@ -203,7 +203,7 @@ java -jar tools/antlr/antlr-4.13.2-complete.jar -Dlanguage=Python3 -visitor -o s
 
 ## 📄 Licença
 
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é licenciado sob a MIT License.
 
 ## 🔗 Recursos Úteis
 
